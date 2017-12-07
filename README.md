@@ -8,4 +8,4 @@ Running the program: Use appropriate program to run the program like eclipse
 
 License: MIT License
 
-More information: More information about the project on the wiki pages: 
+More information: More information about the project on the wiki pages: https://github.com/Majeha/Quizes/wiki
